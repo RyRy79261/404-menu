@@ -1,0 +1,22 @@
+{
+  "model_preferences": {
+    "code_reference_style": "line_numbers",
+    "output_format": "markdown",
+    "context_retention": {
+      "files": ["templates/query_format.md"],
+      "history_depth": "current_session"
+    }
+  },
+  "interaction_rules": {
+    "code_blocks": {
+      "reference_style": "startLine/endLine",
+      "language_specification": true,
+      "filepath_inclusion": true
+    },
+    "query_structure": {
+      "use_template": "templates/query_format.md",
+      "require_context": true,
+      "allow_conversational": false
+    }
+  }
+} 
