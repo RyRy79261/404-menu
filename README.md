@@ -56,26 +56,29 @@ Each recipe includes comprehensive sections:
 ### Potential Menu Items
 
 - Previous Years
-  - 2023
-    - [Lentil Shepherd's Pie](2025/potential_menu_items/previous_years/mains/lentil_shepherds_pie.md)
-    - [Chickpea Curry](2025/potential_menu_items/previous_years/mains/chickpea_curry.md)
-    - [Vegan Wraps 2023](2025/potential_menu_items/previous_years/mains/vegan_wraps_2023.md)
-    - [Buddha Bowls](2025/potential_menu_items/previous_years/mains/buddha_bowls.md)
-    - [Hummus Veggie Wraps](2025/potential_menu_items/previous_years/mains/hummus_veggie_wraps.md)
-    - [Tacos PBC](2025/potential_menu_items/previous_years/mains/tacos_pbc.md)
-    - [Grilled Eggplant Wraps](2025/potential_menu_items/previous_years/mains/grilled_eggplant_wraps.md)
-    - [Vegetable Stir Fry](2025/potential_menu_items/previous_years/mains/vegetable_stir_fry.md)
-    - [Campfire Veggie Packets](2025/potential_menu_items/previous_years/mains/campfire_veggie_packets.md)
-    - [Vegetable Risotto](2025/potential_menu_items/previous_years/mains/vegetable_risotto.md)
-    - [Tofu Cabbage Stew](2025/potential_menu_items/previous_years/mains/tofu_cabbage_stew.md)
-    - [Spaghetti Bolognese](2025/potential_menu_items/previous_years/mains/spaghetti_bolognese.md)
+  - Bowls
     - [Buddha Bowl](2025/potential_menu_items/previous_years/bowls/buddha_bowl.md)
     - [404 Rice Bowl](2025/potential_menu_items/previous_years/bowls/404_rice_bowl.md)
-  - 2024
-    - [Sweet Potato Tacos](2025/potential_menu_items/previous_years/mains/sweet_potato_tacos.md)
-    - [Mediterranean Bowls](2025/potential_menu_items/previous_years/bowls/mediterranean_bowls.md)
-    - [Vegan Wraps 2024](2025/potential_menu_items/previous_years/mains/vegan_wraps_2024.md)
-    - [Jackfruit Pulled "Pork"](2025/potential_menu_items/previous_years/mains/jackfruit_pulled_pork.md)
+  - Breakfast
+    - [cauliflower_fritters](2025/potential_menu_items/previous_years/breakfast/cauliflower_fritters.md)
+    - [eggplant_shakshuka](2025/potential_menu_items/previous_years/breakfast/eggplant_shakshuka.md)
+    - [french_toast](2025/potential_menu_items/previous_years/breakfast/french_toast.md)
+    - [pancakes](2025/potential_menu_items/previous_years/breakfast/pancakes.md)
+    - [sweet_potato_bowl](2025/potential_menu_items/previous_years/breakfast/sweet_potato_bowl.md)
+    - [tofu_scrambled](2025/potential_menu_items/previous_years/breakfast/tofu_scramble.md)
+  - Mains
+    - [buddha_bowls](2025/potential_menu_items/previous_years/mains/buddha_bowls.md)
+    - [campfire_veggie_packets](2025/potential_menu_items/previous_years/mains/campfire_veggie_packets.md)
+    - [chickpea_curry](2025/potential_menu_items/previous_years/mains/chickpea_curry.md)
+    - [grilled_eggplant_wraps](2025/potential_menu_items/previous_years/mains/grilled_eggplant_wraps.md)
+    - [hummus_veggie_wraps](2025/potential_menu_items/previous_years/mains/hummus_veggie_wraps.md)
+    - [lentil_shepherds_pie](2025/potential_menu_items/previous_years/mains/lentil_shepherds_pie.md)
+    - [spaghetti_bolognese](2025/potential_menu_items/previous_years/mains/spaghetti_bolognese.md)
+    - [tacos_pbc](2025/potential_menu_items/previous_years/mains/tacos_pbc.md)
+    - [tofu_cabbage_stew](2025/potential_menu_items/previous_years/mains/tofu_cabbage_stew.md)
+    - [vegan_wraps_2023](2025/potential_menu_items/previous_years/mains/vegan_wraps_2023.md)
+    - [vegetable_risotto](2025/potential_menu_items/previous_years/mains/vegetable_risotto.md)
+    - [vegetable_stir_fry](2025/potential_menu_items/previous_years/mains/vegetable_stir_fry.md)
 - New Items
   - chinese
     - [Mapo Tofu](2025/potential_menu_items/chinese/mapo_tofu.md)
