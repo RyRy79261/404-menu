@@ -60,7 +60,17 @@ Each recipe includes comprehensive sections:
     - [Lentil Shepherd's Pie](2025/potential_menu_items/previous_years/mains/lentil_shepherds_pie.md)
     - [Chickpea Curry](2025/potential_menu_items/previous_years/mains/chickpea_curry.md)
     - [Vegan Wraps 2023](2025/potential_menu_items/previous_years/mains/vegan_wraps_2023.md)
-    - [Buddha Bowls](2025/potential_menu_items/previous_years/bowls/buddha_bowl.md)
+    - [Buddha Bowls](2025/potential_menu_items/previous_years/mains/buddha_bowls.md)
+    - [Hummus Veggie Wraps](2025/potential_menu_items/previous_years/mains/hummus_veggie_wraps.md)
+    - [Tacos PBC](2025/potential_menu_items/previous_years/mains/tacos_pbc.md)
+    - [Grilled Eggplant Wraps](2025/potential_menu_items/previous_years/mains/grilled_eggplant_wraps.md)
+    - [Vegetable Stir Fry](2025/potential_menu_items/previous_years/mains/vegetable_stir_fry.md)
+    - [Campfire Veggie Packets](2025/potential_menu_items/previous_years/mains/campfire_veggie_packets.md)
+    - [Vegetable Risotto](2025/potential_menu_items/previous_years/mains/vegetable_risotto.md)
+    - [Tofu Cabbage Stew](2025/potential_menu_items/previous_years/mains/tofu_cabbage_stew.md)
+    - [Spaghetti Bolognese](2025/potential_menu_items/previous_years/mains/spaghetti_bolognese.md)
+    - [Buddha Bowl](2025/potential_menu_items/previous_years/bowls/buddha_bowl.md)
+    - [404 Rice Bowl](2025/potential_menu_items/previous_years/bowls/404_rice_bowl.md)
   - 2024
     - [Sweet Potato Tacos](2025/potential_menu_items/previous_years/mains/sweet_potato_tacos.md)
     - [Mediterranean Bowls](2025/potential_menu_items/previous_years/bowls/mediterranean_bowls.md)
@@ -68,40 +78,33 @@ Each recipe includes comprehensive sections:
     - [Jackfruit Pulled "Pork"](2025/potential_menu_items/previous_years/mains/jackfruit_pulled_pork.md)
 - New Items
   - chinese
-    - [Buddha Bowls](2025/potential_menu_items/chinese/buddha_bowl.md)
     - [Mapo Tofu](2025/potential_menu_items/chinese/mapo_tofu.md)
     - [Dan Dan Noodles](2025/potential_menu_items/chinese/dan_dan_noodles.md)
-    - [Kung Pao Cauliflower](2025/potential_menu_items/chinese/kung_pao_cauliflower.md)
+    - [Buddha Delight](2025/potential_menu_items/chinese/buddha_delight.md)
   - mediterranean
     - [Moussaka](2025/potential_menu_items/mediterranean/moussaka.md)
-    - [Falafel Pita](2025/potential_menu_items/mediterranean/falafel_pita.md)
-    - [Greek Salad Bowl](2025/potential_menu_items/mediterranean/greek_salad_bowl.md)
-    - [Spanakopita](2025/potential_menu_items/mediterranean/spanakopita.md)
+    - [Gemista](2025/potential_menu_items/mediterranean/gemista.md)
+    - [Gigantes Plaki](2025/potential_menu_items/mediterranean/gigantes_plaki.md)
   - thai
-    - [Thai Green Curry](2025/potential_menu_items/thai/thai_green_curry.md)
-    - [Pad Thai](2025/potential_menu_items/thai/pad_thai.md)
+    - [Green Curry](2025/potential_menu_items/thai/green_curry.md)
     - [Som Tam](2025/potential_menu_items/thai/som_tam.md)
-    - [Massaman Curry](2025/potential_menu_items/thai/massaman_curry.md)
-  - vietnamese
-    - [Rice Noodle Bowls](2025/potential_menu_items/vietnamese/rice_noodle_bowls.md)
-    - [Banh Mi](2025/potential_menu_items/vietnamese/banh_mi.md)
-    - [Fresh Spring Rolls](2025/potential_menu_items/vietnamese/fresh_spring_rolls.md)
-  - italian
-    - [Mushroom Risotto](2025/potential_menu_items/italian/mushroom_risotto.md)
-    - [Eggplant Parmigiana](2025/potential_menu_items/italian/eggplant_parmigiana.md)
-    - [Pasta Primavera](2025/potential_menu_items/italian/pasta_primavera.md)
-  - mexican
-    - [Enchiladas Verdes](2025/potential_menu_items/mexican/enchiladas_verdes.md)
-    - [Black Bean Tacos](2025/potential_menu_items/mexican/black_bean_tacos.md)
-    - [Chilaquiles](2025/potential_menu_items/mexican/chilaquiles.md)
+    - [Pad Pak Ruam](2025/potential_menu_items/thai/pad_pak_ruam.md)
+  - japanese
+    - [Ramen](2025/potential_menu_items/japanese/ramen.md)
+    - [Tempura Vegetables](2025/potential_menu_items/japanese/tempura_vegetables.md)
+    - [Nasu Dengaku](2025/potential_menu_items/japanese/nasu_dengaku.md)
   - indian
-    - [Dal Makhani](2025/potential_menu_items/indian/dal_makhani.md)
-    - [Chana Masala](2025/potential_menu_items/indian/chana_masala.md)
-    - [Vegetable Biryani](2025/potential_menu_items/indian/vegetable_biryani.md)
-  - middle_eastern
-    - [Shakshuka](2025/potential_menu_items/middle_eastern/shakshuka.md)
-    - [Mujaddara](2025/potential_menu_items/middle_eastern/mujaddara.md)
-    - [Stuffed Grape Leaves](2025/potential_menu_items/middle_eastern/stuffed_grape_leaves.md)
+    - [Baingan Bharta](2025/potential_menu_items/indian/baingan_bharta.md)
+    - [Masala Dosa](2025/potential_menu_items/indian/masala_dosa.md)
+    - [Malai Kofta](2025/potential_menu_items/indian/malai_kofta.md)
+  - mexican
+    - [Pozole Verde](2025/potential_menu_items/mexican/pozole_verde.md)
+    - [Tlacoyos](2025/potential_menu_items/mexican/tlacoyos.md)
+    - [Enchiladas Verdes](2025/potential_menu_items/mexican/enchiladas_verdes.md)
+  - italian
+    - [Caponata](2025/potential_menu_items/italian/caponata.md)
+    - [Mushroom Risotto](2025/potential_menu_items/italian/mushroom_risotto.md)
+    - [Pasta alla Norma](2025/potential_menu_items/italian/pasta_alla_norma.md)
 
 ## Getting Started
 1. Have a look around, see if you like the options
